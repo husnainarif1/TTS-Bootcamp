@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <H1>Husnain Arif's Resume</H1>
+    <h2>Education</h2>
+    <ul>
+        <li>Monroe Community College, Computer Science(2017-2019)</li>
+        <li>Western Governors University, Software Development (2020 - Present)</li>
+    </ul>
+    <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Git</li>
+            <li>Github</li>
+            <li>Java</li>
+            <li>SQL</li>
+            <li>C/C++</li>
+        </ul>
+    <h2>Certifications</h2>
+        <ul>
+            <li>Comptia Project+</li>
+            <li>ITIL Foundations</li>
+            <li>CIW User Interface Designer</li>
+            <li>Google IT Support Professional Certificate</li>
+        </ul>
+    
+</body>
+</html>
